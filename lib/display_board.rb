@@ -1,4 +1,4 @@
-display_board = def puts  "Welcome to Tic Tac Toe"
+def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
